@@ -30,7 +30,7 @@ const App = () => {
       >
         Player stream RTSP
       </div>
-      <div id="video-canvas" style={{ height: "480px", width: "640px" }}></div>
+      <div id="video-canvas" style={{ height: "480px", width: "1080px" }}></div>
     </div>
   );
 };
